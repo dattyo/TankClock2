@@ -1,0 +1,25 @@
+# ビルド生成ファイル
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual StudioやIDE関連
+*.sln
+*.vcxproj*
+*.user
+*.opensdf
+*.sdf
+.vscode/
+
+# MacOS固有の不要ファイル
+.DS_Store
+
+# ビルドの一時ファイル、ログ
+*.log
+*.tmp
+
+# その他
+*.xcworkspace
+*.xcuserdata/
